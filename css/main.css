@@ -1,0 +1,25 @@
+.footer div{
+    height: inherit;
+    margin: auto;
+}
+
+img{
+    margin: auto;
+}
+
+#headerlogo{
+    background: url(../img/headerlogo.png) no-repeat center center;
+    width:200px;
+    height:25px;
+}
+
+#footerlogo{
+    background: url(../img/footerlogo.png) no-repeat center center;
+    width:200px;
+    height:25px;
+}
+
+#gallery{
+    background: url(../img/gallery/background.png) no-repeat center center;
+    height:402px;
+}
